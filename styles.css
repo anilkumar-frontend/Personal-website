@@ -194,7 +194,7 @@ img{
   align-self: center;
 }
 .home__title{
-  font-size: var(--big-font-size);
+  font-size: 42px;
   margin-bottom: var(--mb-5);
 }
 .home__title-color{
